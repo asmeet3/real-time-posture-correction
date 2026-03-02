@@ -1,7 +1,7 @@
-# Real-Time AI Exercise Form Correction Using YOLO and MediaPipe
+# RepRight - Real-Time AI Exercise Form Corrector
 
 ### Description
-A Study on the big three exercises AI posture correction service Using YOLOv5 and MediaPipe<br>
+A Study on the SBD exercises AI form correction service Using YOLO and MediaPipe<br>
 
 ## Data
 - YOLOv5: Detect only one Person
